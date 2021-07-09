@@ -1,0 +1,17 @@
+.item{
+    padding: 20px;
+    width: 100%;
+}
+.gridStyle{
+    width: 25%;
+    padding: 20px;
+}
+.row{
+    margin-top: 40px;
+}
+.modal{
+    display: flex;
+}
+.modal span{
+    margin-bottom: 20px;
+}
